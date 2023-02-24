@@ -1,0 +1,6 @@
+---
+- name: My first playbook entry
+  host: localhost
+  connection: localhost
+
+
